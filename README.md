@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahadat Hossain Shamim</h1>
 <h3 align="center">I am a Software Engineer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC%22%20width=%22480%22%20height=%22360%22%20frameBorder=%220%22%20class=%22giphy-embed%22%20allowFullScreen%3E%3C/iframe%3E%3Cp%3E%3Ca%20href=%22https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC%22%3Evia%20GIPHY%3C/a%3E%3C/p%3E">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim29&label=Profile%20views&color=0e75b6&style=flat" alt="shamim29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamim29" alt="shamim29" /></a> </p>
